@@ -191,6 +191,10 @@
 				>
 			</File>
 		</Filter>
+		<File
+			RelativePath=".\input.txt"
+			>
+		</File>
 	</Files>
 	<Globals>
 	</Globals>
